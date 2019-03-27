@@ -1,0 +1,24 @@
+E:\Users\Alumno\Desktop\POO\POO\bin\Debug\POO.exe.config
+d:\Users\Fam_Vel_Bla\Documents\Repos\POO\POO\bin\Debug\POO.exe.config
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.Colecciones.frmArreglos.resources
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.Form1.resources
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.Properties.Resources.resources
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.csproj.GenerateResource.Cache
+E:\Users\Alumno\Desktop\POO\POO\bin\Debug\POO.exe
+E:\Users\Alumno\Desktop\POO\POO\bin\Debug\POO.pdb
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.exe
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.pdb
+E:\Users\Alumno\Desktop\POO\POO\obj\Debug\POO.Colecciones.frmListas.resources
+E:\Users\julio flores\Desktop\NET\POO\POO\bin\Debug\POO.exe.config
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.exe
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.pdb
+E:\Users\julio flores\Desktop\NET\POO\POO\bin\Debug\POO.exe
+E:\Users\julio flores\Desktop\NET\POO\POO\bin\Debug\POO.pdb
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.Colecciones.frmArreglos.resources
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.Colecciones.frmListas.resources
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.Colecciones.frmPagosPlanilla.resources
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.Form1.resources
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.Properties.Resources.resources
+E:\Users\julio flores\Desktop\NET\POO\POO\obj\Debug\POO.csproj.GenerateResource.Cache

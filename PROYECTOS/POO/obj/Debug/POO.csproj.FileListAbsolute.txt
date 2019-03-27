@@ -1,0 +1,23 @@
+E:\Users\Alumno\Desktop\net\POO\POO\bin\Debug\POO.exe.config
+E:\Users\Alumno\Desktop\net\POO\POO\bin\Debug\POO.exe
+E:\Users\Alumno\Desktop\net\POO\POO\bin\Debug\POO.pdb
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.Colecciones.frmArreglos.resources
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.Form1.resources
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.Properties.Resources.resources
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.csproj.GenerateResource.Cache
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.exe
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.pdb
+E:\Users\Alumno\Desktop\net\POO\POO\obj\Debug\POO.Colecciones.frmListas.resources
+E:\Users\Alumno\Desktop\CLASE 3\POO\bin\Debug\POO.exe.config
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.exe
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.pdb
+E:\Users\Alumno\Desktop\CLASE 3\POO\bin\Debug\POO.exe
+E:\Users\Alumno\Desktop\CLASE 3\POO\bin\Debug\POO.pdb
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.Colecciones.frmArreglos.resources
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.Colecciones.frmListas.resources
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.Colecciones.frmPagosPlanillas.resources
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.Form1.resources
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.Properties.Resources.resources
+E:\Users\Alumno\Desktop\CLASE 3\POO\obj\Debug\POO.csproj.GenerateResource.Cache
